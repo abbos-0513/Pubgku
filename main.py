@@ -16,7 +16,7 @@ CREATOR_USERNAME = "@abdurozoqov_edits"
 
 # Render sizga bergan manzil (Masalan: https://bot-nomi.onrender.com)
 # Buni aniq yozishingiz shart, aks holda GitHub sayt ishlamaydi!
-RENDER_BACKEND_URL = "https://SIZNING-RENDER-APP-NOMINGIZ.onrender.com" 
+RENDER_BACKEND_URL = "https://pubgku.onrender.com" 
 
 # Sizning GitHub Sayt Linki (Oxiri / bilan tugasin)
 GITHUB_SITE_URL = "https://pubgmobile-uc.github.io/versiya-/"
